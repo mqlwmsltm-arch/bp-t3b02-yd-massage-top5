@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mqlwmsltm-arch.github.io/bp-t3b02-yd-massage-top5//sitemap.xml
