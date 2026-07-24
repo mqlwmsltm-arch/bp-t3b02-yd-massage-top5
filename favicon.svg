@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity d22c499f54d1a90b</metadata>
-  <rect width="64" height="64" rx="10" fill="hsl(164 67% 36%)"/>
-  <path d="M36 0h28v64H22Z" fill="hsl(285 78% 55%)" opacity="0.82"/>
-  <g transform="rotate(199 32 32)" opacity="0.42"><path d="M17 13h30v38H17zM10 24h44" fill="none" stroke="#ffffff" stroke-width="6" stroke-linejoin="round"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">YB</text>
+  <title>여의도 마사지 TOP5</title>
+  <rect width="64" height="64" rx="13" fill="hsl(164 65% 24%)"/>
+  <g transform="rotate(270 32 32)"><path d="M12 44 26 24l10 12 6-8 8 16Z" fill="hsl(292 68% 59%)"/><path d="M12 44 26 24l10 12" fill="none" stroke="hsl(164 24% 96%)" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/></g>
 </svg>
